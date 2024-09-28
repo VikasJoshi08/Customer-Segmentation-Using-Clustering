@@ -1,1 +1,2 @@
 # Customer-Segmentation-Using-Clustering
+This assignment focuses on developing a customer segmentation model for a bank’s credit card holders using clustering techniques like K-Means and DBSCAN. The objective is to segment customers based on their transaction and credit usage patterns. It includes data preprocessing, exploratory data analysis (EDA), applying clustering algorithms, and profiling each segment. The final output proposes marketing strategies tailored to each segment.
